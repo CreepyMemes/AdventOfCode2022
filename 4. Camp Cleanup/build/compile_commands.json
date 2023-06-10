@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/4. Camp Cleanup/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/4. Camp Cleanup\" -g -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"C:\\Users\\CreepyMemes\\OneDrive\\Desktop\\VSCode Projects\\C++ Projects\\10. Advent of Code\\2022\\4. Camp Cleanup\\src\\main.cpp\"",
+  "file": "C:\\Users\\CreepyMemes\\OneDrive\\Desktop\\VSCode Projects\\C++ Projects\\10. Advent of Code\\2022\\4. Camp Cleanup\\src\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/4. Camp Cleanup/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/4. Camp Cleanup\" -g -o CMakeFiles\\main.dir\\src\\linkedlist\\linkedlist.cpp.obj -c \"C:\\Users\\CreepyMemes\\OneDrive\\Desktop\\VSCode Projects\\C++ Projects\\10. Advent of Code\\2022\\4. Camp Cleanup\\src\\linkedlist\\linkedlist.cpp\"",
+  "file": "C:\\Users\\CreepyMemes\\OneDrive\\Desktop\\VSCode Projects\\C++ Projects\\10. Advent of Code\\2022\\4. Camp Cleanup\\src\\linkedlist\\linkedlist.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\linkedlist\\linkedlist.cpp.obj"
+}
+]

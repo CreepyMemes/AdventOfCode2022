@@ -1,0 +1,4 @@
+Trivial: 1, 3
+Easy:    2, 4, 5
+Medium:  
+Hard:    

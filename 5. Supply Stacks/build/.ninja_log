@@ -1,0 +1,5 @@
+# ninja log v5
+11	344	7080181653167760	CMakeFiles/main.dir/src/stack/stack.cpp.obj	1bec9e202e4705fb
+6	430	7080125827713169	CMakeFiles/main.dir/src/llist/llist.cpp.obj	7e278f30b3c014e3
+7	351	7080191822728855	CMakeFiles/main.dir/src/main.cpp.obj	e62c2ee234a7a96
+351	439	7080191823580693	main.exe	def3af4bd45abe77

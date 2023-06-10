@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/Cpp_Projects/10. Advent of Code/2022/2. Rock Paper Scissors/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/Cpp_Projects/10. Advent of Code/2022/2. Rock Paper Scissors\" -g -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"C:\\Users\\CreepyMemes\\OneDrive\\Desktop\\VSCode Projects\\Cpp_Projects\\10. Advent of Code\\2022\\2. Rock Paper Scissors\\src\\main.cpp\"",
+  "file": "C:\\Users\\CreepyMemes\\OneDrive\\Desktop\\VSCode Projects\\Cpp_Projects\\10. Advent of Code\\2022\\2. Rock Paper Scissors\\src\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/Cpp_Projects/10. Advent of Code/2022/2. Rock Paper Scissors/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/Cpp_Projects/10. Advent of Code/2022/2. Rock Paper Scissors\" -g -o CMakeFiles\\main.dir\\src\\linkedlist\\linkedlist.cpp.obj -c \"C:\\Users\\CreepyMemes\\OneDrive\\Desktop\\VSCode Projects\\Cpp_Projects\\10. Advent of Code\\2022\\2. Rock Paper Scissors\\src\\linkedlist\\linkedlist.cpp\"",
+  "file": "C:\\Users\\CreepyMemes\\OneDrive\\Desktop\\VSCode Projects\\Cpp_Projects\\10. Advent of Code\\2022\\2. Rock Paper Scissors\\src\\linkedlist\\linkedlist.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\linkedlist\\linkedlist.cpp.obj"
+}
+]

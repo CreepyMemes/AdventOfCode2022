@@ -1,0 +1,3 @@
+C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/4. Camp Cleanup/build/CMakeFiles/main.dir
+C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/4. Camp Cleanup/build/CMakeFiles/edit_cache.dir
+C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/4. Camp Cleanup/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/5. Supply Stacks/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/5. Supply Stacks\" -g -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"C:\\Users\\CreepyMemes\\OneDrive\\Desktop\\VSCode Projects\\C++ Projects\\10. Advent of Code\\2022\\5. Supply Stacks\\src\\main.cpp\"",
+  "file": "C:\\Users\\CreepyMemes\\OneDrive\\Desktop\\VSCode Projects\\C++ Projects\\10. Advent of Code\\2022\\5. Supply Stacks\\src\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/5. Supply Stacks/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/5. Supply Stacks\" -g -o CMakeFiles\\main.dir\\src\\llist\\llist.cpp.obj -c \"C:\\Users\\CreepyMemes\\OneDrive\\Desktop\\VSCode Projects\\C++ Projects\\10. Advent of Code\\2022\\5. Supply Stacks\\src\\llist\\llist.cpp\"",
+  "file": "C:\\Users\\CreepyMemes\\OneDrive\\Desktop\\VSCode Projects\\C++ Projects\\10. Advent of Code\\2022\\5. Supply Stacks\\src\\llist\\llist.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\llist\\llist.cpp.obj"
+},
+{
+  "directory": "C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/5. Supply Stacks/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/5. Supply Stacks\" -g -o CMakeFiles\\main.dir\\src\\stack\\stack.cpp.obj -c \"C:\\Users\\CreepyMemes\\OneDrive\\Desktop\\VSCode Projects\\C++ Projects\\10. Advent of Code\\2022\\5. Supply Stacks\\src\\stack\\stack.cpp\"",
+  "file": "C:\\Users\\CreepyMemes\\OneDrive\\Desktop\\VSCode Projects\\C++ Projects\\10. Advent of Code\\2022\\5. Supply Stacks\\src\\stack\\stack.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\stack\\stack.cpp.obj"
+}
+]
