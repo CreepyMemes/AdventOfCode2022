@@ -1,3 +1,0 @@
-C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/5. Supply Stacks/build/CMakeFiles/main.dir
-C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/5. Supply Stacks/build/CMakeFiles/edit_cache.dir
-C:/Users/CreepyMemes/OneDrive/Desktop/VSCode Projects/C++ Projects/10. Advent of Code/2022/5. Supply Stacks/build/CMakeFiles/rebuild_cache.dir
