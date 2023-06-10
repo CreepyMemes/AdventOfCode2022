@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Useless shit
+*.vscode
